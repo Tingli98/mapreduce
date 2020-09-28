@@ -244,6 +244,22 @@ instead of:
 ./mvnw clean install
 ```
 
+## Flights by Destination application.
+
+### Run
+
+```shell script
+hadoop jar target/cisc-525-mapreduce-jar-with-dependencies.jar com.drkiettran.mapreduce.FlightsByDest /user/student/airline/2000.csv /tmp/2000
+```
+
+## Flights by Original application.
+
+### Run
+
+```shell script
+hadoop jar target/cisc-525-mapreduce-jar-with-dependencies.jar com.drkiettran.mapreduce.FlightsByOrigin /user/student/airline/2000.csv /tmp/2000
+```
+
 ## Miscellaneous
 
 ### Flight data
