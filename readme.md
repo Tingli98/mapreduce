@@ -1,7 +1,6 @@
 # MapReduce project
 
-Changed readme.
-This is a Java project that is used for a simple MapReduce Word Count problem.
+This is a Java project that is used for MapReduce Word Count problem, MapeReduce Flights by Carries, MapeReduce Flight by Destination, MapeReduce Flight by Origin.
 
 ## Running Hadoop
 
